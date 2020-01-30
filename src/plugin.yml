@@ -1,0 +1,15 @@
+name: SocialT11E
+main: tk.t11e.social.main.Main
+version: '1.0'
+author: booky10
+description: Plugin for party or friend system!
+depend:
+  - LuckPerms
+commands:
+  friend:
+  f:
+  party:
+  p:
+  partyChat:
+  pc:
+  test:
